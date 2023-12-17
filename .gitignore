@@ -1,0 +1,17 @@
+Figure_1.png
+NLP第三次作业报告.pdf
+data/ChineseCorpus199801.txt
+seg_bimm.txt
+seg_nnm.txt
+subwords.txt
+__pycache__/BiLSTM_CRF.cpython-310.pyc
+__pycache__/CRF.cpython-310.pyc
+data/chr_vocab.json
+data/cleaned_date.txt
+data/cleaned_words.txt
+data/tag_vocab.json
+data/test.txt
+data/text.txt
+data/train.txt
+data/val.txt
+data/word_dict.json
